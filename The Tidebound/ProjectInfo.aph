@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>760F88A869A7890CF082D522CA464F0145B6FD5FC801F230F8950F1318B2ADFC</Signature>
+  <Content>
+    <Project Guid="7f3e101e-7fd3-4fff-a867-6d63efb9d9cc">
+      <DisplayName Value="The Tidebound"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="52b1eb1d-c29e-4b9f-8303-f943d6e4c155"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="638950277191401150"/>
+      <PartitionHash Value="3173A8FA02F5FDFB5461B02D63B3D271A5DE235227E2A1202C5D48FD13A6940A"/>
+      <SaveFileVersion Value="60"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
